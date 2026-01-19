@@ -10,7 +10,7 @@ This application helps users efficiently manage their daily tasks using a **Kanb
 
 🔗 **Live Demo:** https://your-project-name.vercel.app (Update after deployment)  
 
-🔗 **GitHub Repository:** https://github.com/your-username/your-repo-name  
+🔗 **GitHub Repository:** https://github.com/Sumit444-commits/TM-Task-Manager  
 
 ---
 
@@ -121,19 +121,23 @@ npm start
 3️⃣ Setup Frontend
 cd ../frontend
 npm install
+
+
+Create a .env file in frontend/ and add:
+VITE_API=your_server_url (e.g: "http://localhost:5000")
+
 npm run dev
 
-📝 License
-
-Distributed under the MIT License. See LICENSE for more information.
 
 👨‍💻 Author
 
 Sumit Sharma
 
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/Sumit444-commits
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://www.linkedin.com/in/sumit-sharma-a0b2c7
+
+🔗 Portfolio: https://www.sumitsharma.codes/
 
 
 ---
