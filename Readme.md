@@ -78,21 +78,33 @@ This application helps users efficiently manage their daily tasks using a **Kanb
 ### Backend
 
 backend/
+
 ├── controllers/
+
 ├── middleware/
+
 ├── models/
+
 ├── routes/
+
 ├── utils/
+
 └── server.js
 
 ### Frontend
 
 frontend/
+
 ├── src/
+
 │ ├── components/
+
 │ ├── context/
+
 │ ├── pages/
+
 │ ├── App.jsx
+
 │ └── main.jsx
 
 ---
