@@ -8,7 +8,7 @@ This application helps users efficiently manage their daily tasks using a **Kanb
 
 ## 🌐 Live Demo & Repository
 
-🔗 **Live Demo:** [TM DEMO LINK](https://task-manager-7l0144pua-sumit-sharmas-projects-7df9edd3.vercel.app/login)
+🔗 **Live Demo:** [TM DEMO LINK](https://tm-manager-silk.vercel.app/)
 
 🔗 **GitHub Repository:** [https://github.com/Sumit444-commits/TM-Task-Manager](https://github.com/Sumit444-commits/TM-Task-Manager)
 
@@ -121,8 +121,8 @@ frontend/
 #### 1️⃣ Clone the repository
 
 ```md
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Sumit444-commits/TM-Task-Manager
+cd TM-Task-Manager
 
 2️⃣ Setup Backend
 cd backend
