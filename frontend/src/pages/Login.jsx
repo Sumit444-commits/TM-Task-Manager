@@ -31,7 +31,6 @@ const Login = () => {
         body: JSON.stringify(formData),
       });
       const data = await response.json();
-      console.log(response)
       if (response.ok) {
         storeTokenInLS(data.token);
         navigate("/");
